@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirapa Ramjan
 =====================================================================================================================================
 
-Computer Science Student
+Computer Science.
 -------
 
-I'm interested and learning about AI.
+I'm interested in AI. I have a passion for it, so I am practicing and learning on my own to grow in this field.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [jirapa.official@gmail.com](mailto:jirapa.official@gmail.com)
