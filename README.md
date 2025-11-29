@@ -5,6 +5,7 @@ AI Engineer | Computer Science.
 -------
 
 Passionate about building and learning in the fields of Machine Learning and Deep Learning.
+Experienced in AI, web/app development, and versatile software engineering.
 
 * 🌍  Based in Thailand.
 * 🎓  Background in Computer Science.
