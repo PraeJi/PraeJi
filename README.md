@@ -7,11 +7,11 @@ AI Engineer | Computer Science.
 Passionate about building and exploring solutions in Machine Learning and Deep Learning.<br>
 Experienced in AI, web and app development, as well as versatile software engineering.
 
-* 🌍  Based in Thailand.
+* 🌍  Based in Thailand.
 * 🎓  Background in Computer Science.
 * 📚  My Study Notes : [MyStudyNotes](https://www.notion.so/20a0b0405f6080b081a5c9f92d088e98?v=20a0b0405f6080f6b336000c4f6e5da6&source=copy_link)
-* ✉️  contact : [jirapa.official@gmail.com](mailto:jirapa.official@gmail.com)
-* 🚀 Always learning & exploring new technologies
+* ✉️  Contact : [jirapa.official@gmail.com](mailto:jirapa.official@gmail.com)
+* 🚀  Always learning & exploring new technologies.
 
 ### Skills
 
