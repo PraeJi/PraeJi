@@ -8,7 +8,7 @@ Passionate about building and learning in the fields of Machine Learning and Dee
 
 * 🌍  Based in Thailand.
 * 🎓  Background in Computer Science.
-* 📚  My Tutorial Repository : [MyTutorials](https://www.notion.so/20a0b0405f6080b081a5c9f92d088e98?v=20a0b0405f6080f6b336000c4f6e5da6&source=copy_link)
+* 📚  My Study Notes : [MyStudyNotes](https://www.notion.so/20a0b0405f6080b081a5c9f92d088e98?v=20a0b0405f6080f6b336000c4f6e5da6&source=copy_link)
 * ✉️  contact : [jirapa.official@gmail.com](mailto:jirapa.official@gmail.com)
 * 🚀 Always learning & exploring new technologies
 
