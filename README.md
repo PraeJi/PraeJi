@@ -1,14 +1,16 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! I'm Jirapa (Prae)
 =====================================================================================================================================
 
-Computer Science.
+AI Engineer | Computer Science.
 -------
 
-I'm interested in AI. I have a passion for it, so I am practicing and learning on my own to grow in this field.
+Passionate about building and learning in the fields of Machine Learning and Deep Learning.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [jirapa.official@gmail.com](mailto:jirapa.official@gmail.com)
-* 🧠  I'm learning Machine Learning and Deep Learning
+* 🌍  Based in Thailand.
+* 🎓  Background in Computer Science.
+* 📚  My Tutorial Repository : [MyTutorials](https://www.notion.so/20a0b0405f6080b081a5c9f92d088e98?v=20a0b0405f6080f6b336000c4f6e5da6&source=copy_link)
+* ✉️  contact : [jirapa.official@gmail.com](mailto:jirapa.official@gmail.com)
+* 🚀 Always learning & exploring new technologies
 
 ### Skills
 
